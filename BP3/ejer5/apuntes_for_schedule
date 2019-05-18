@@ -1,0 +1,11 @@
+#for
+	def-sched-var
+
+#for schedule (static or degromic or guided, ______)
+
+#for schedule(runtime)
+- | run-sched-var
+  | OMP_SCHEDULE
+  | omp_set_schedule(______ , _____)
++ V
+
